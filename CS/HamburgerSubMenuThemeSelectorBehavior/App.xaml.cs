@@ -11,7 +11,7 @@ namespace HamburgerSubMenuThemeSelectorBehavior
     {
         public App()
         {
-            foreach (var theme in Theme.Themes.ToList())
+            foreach (Theme theme in Theme.Themes.ToList())
             {
                 switch (theme.Category)
                 {
