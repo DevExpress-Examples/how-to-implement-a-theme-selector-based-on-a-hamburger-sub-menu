@@ -16,7 +16,7 @@ You can pass theme names to the [PreviewThemeNames](https://docs.devexpress.com/
 
 You can use the [Theme.ShowInThemeSelector](https://docs.devexpress.com/WPF/DevExpress.Xpf.Core.Theme.ShowInThemeSelector) property to specify whether a theme or a theme category is visible in the **HamburgerSubMenuThemeSelectorBehavior**. 
 
-In this example, the [Office2007](https://docs.devexpress.com/WPF/7407#office-2007-themes) and [Metropolis](https://docs.devexpress.com/WPF/7407#metropolis-themes) theme categories, and the [DeepBlue](https://docs.devexpress.com/WPF/7407#other-themes) application theme are hidden from the theme selector.
+In this example, the [Office2007](https://docs.devexpress.com/WPF/7407#office-2007-themes) and [Metropolis](https://docs.devexpress.com/WPF/7407#metropolis-themes) theme categories, and the [DeepBlue](https://docs.devexpress.com/WPF/7407#other-themes) application theme are hidden.
 
 ## Save an Applied Theme to an Application Configuration File
 
