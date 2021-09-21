@@ -12,7 +12,7 @@
         <dxwui:HamburgerMenu>
             <dxwui:HamburgerSubMenu>
                 <dxmvvm:Interaction.Behaviors>
-                    <dxwui:HamburgerSubMenuThemeSelectorBehavior ShowTouchThemes="False"/>
+                    <dxwui:HamburgerSubMenuThemeSelectorBehavior ShowTouchThemes="False" PreviewThemeNames="VS2017Light,VS2017Dark,Office2019White,Office2019HighContrast"/>
                 </dxmvvm:Interaction.Behaviors>
             </dxwui:HamburgerSubMenu>
 
