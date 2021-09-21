@@ -8,7 +8,9 @@ The [HamburgerSubMenuThemeSelectorBehavior](https://docs.devexpress.com/WPF/DevE
 
 <img width="340" alt="HamburgerSubMenuThemeSelectorBehavior_vcKMBqClvU" src="https://user-images.githubusercontent.com/12169834/129886342-4fdc7873-323f-4f21-b260-fa98012c627a.png">
 
-Refer to the [MainWindow.xaml](https://github.com/DevExpress-Examples/how-to-implement-a-theme-selector-based-on-a-hamburger-sub-menu/blob/19.2.12%2B/CS/HamburgerSubMenuThemeSelectorBehavior/MainWindow.xaml) (VB: [MainWindow.xaml](https://github.com/DevExpress-Examples/how-to-implement-a-theme-selector-based-on-a-hamburger-sub-menu/blob/19.2.12%2B/VB/HamburgerSubMenuThemeSelectorBehavior/MainWindow.xaml)) file to get the code sample that displays a **HamburgerSubMenu** with a theme selector.
+### Display Themes in the HamburgerSubMenu Preview
+
+You can pass theme names to the https://docs.devexpress.com/WPF/DevExpress.Xpf.WindowsUI.HamburgerSubMenuThemeSelectorBehavior.PreviewThemeNames property to display a theme(s) in the https://docs.devexpress.com/WPF/DevExpress.Xpf.WindowsUI.HamburgerSubMenu preview. If you specify multiple themes, separate each theme with comma.
 
 ## Hide a Theme from a Theme Selector
 
