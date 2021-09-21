@@ -10,7 +10,7 @@ The [HamburgerSubMenuThemeSelectorBehavior](https://docs.devexpress.com/WPF/DevE
 
 ## Display Themes in the HamburgerSubMenu Preview
 
-You can pass theme names to the [PreviewThemeNames](https://docs.devexpress.com/WPF/DevExpress.Xpf.WindowsUI.HamburgerSubMenuThemeSelectorBehavior.PreviewThemeNames) property to display a theme(s) in the [HamburgerSubMenu](https://docs.devexpress.com/WPF/DevExpress.Xpf.WindowsUI.HamburgerSubMenu) preview. If you specify multiple themes, separate each theme with comma.
+You can pass theme names to the [PreviewThemeNames](https://docs.devexpress.com/WPF/DevExpress.Xpf.WindowsUI.HamburgerSubMenuThemeSelectorBehavior.PreviewThemeNames) property to display a theme(s) in the [HamburgerSubMenu](https://docs.devexpress.com/WPF/DevExpress.Xpf.WindowsUI.HamburgerSubMenu) preview. If you specify multiple themes, separate them with a comma.
 
 ## Hide a Theme from a Theme Selector
 
