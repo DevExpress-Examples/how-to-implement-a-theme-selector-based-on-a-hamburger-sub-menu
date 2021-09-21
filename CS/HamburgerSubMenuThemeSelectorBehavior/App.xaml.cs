@@ -7,14 +7,10 @@ namespace HamburgerSubMenuThemeSelectorBehavior
     /// <summary>
     /// Interaction logic for App.xaml
     /// </summary>
-    public partial class App : Application
-    {
-        public App()
-        {
-            foreach (Theme theme in Theme.Themes.ToList())
-            {
-                switch (theme.Category)
-                {
+    public partial class App : Application {
+        public App() {
+            foreach (Theme theme in Theme.Themes.ToList()) {
+                switch (theme.Category) {
                     case Theme.Office2007Category:
                         theme.ShowInThemeSelector = false;
                         break;
@@ -24,8 +20,7 @@ namespace HamburgerSubMenuThemeSelectorBehavior
                     default:
                         break;
                 }
-                if (theme.Name == "DeepBlue")
-                {
+                if (theme.Name == "DeepBlue") {
                     theme.ShowInThemeSelector = false;
                 }
             }
