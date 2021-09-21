@@ -29,7 +29,7 @@ Call the static [ApplicationThemeHelper.UpdateApplicationThemeName](https://docs
 ## Files to Look At
 
 - [MainWindow.xaml](./CS/HamburgerSubMenuThemeSelectorBehavior/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/HamburgerSubMenuThemeSelectorBehavior/MainWindow.xaml))
-- [Application.xaml.cs](./CS/HamburgerSubMenuThemeSelectorBehavior/App.xaml.cs) (VB: [Application.xaml.vb](./VB/HamburgerSubMenuThemeSelectorBehavior/Application.xaml.vb))
+- [App.xaml.cs](./CS/HamburgerSubMenuThemeSelectorBehavior/App.xaml.cs) (VB: [App.xaml.vb](./VB/HamburgerSubMenuThemeSelectorBehavior/App.xaml.vb))
 <!-- default file list end -->
 
 ## Documentation
