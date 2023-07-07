@@ -42,3 +42,4 @@ Call the static [ApplicationThemeHelper.UpdateApplicationThemeName](https://docs
 
 ## More Examples
 - [WPF MVVM Behaviors - Display Theme Selectors Based on BarItems and Hide Themes from List](https://github.com/DevExpress-Examples/wpf-mvvm-behaviors-barItems-based-theme-selectors)
+- [WPF MVVM Behaviors - Display a Theme Selector Based on a GalleryControl](https://github.com/DevExpress-Examples/wpf-mvvm-behaviors-gallery-based-theme-selector)
